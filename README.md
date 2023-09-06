@@ -2,8 +2,6 @@
 
 ### About me: 
 
-##
-
 My name is Gabriel, I'm a graduate student in computer science.
 
 <div style="display: inline_block">
