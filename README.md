@@ -1,8 +1,7 @@
 ### Welcome to my github page
 
-### About me: 
-
-My name is Gabriel, I'm a graduate student in computer science.
+## About me: 
+I'm Gabriel, I'm a graduate student in computer science.
 
 <div style="display: inline_block">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
