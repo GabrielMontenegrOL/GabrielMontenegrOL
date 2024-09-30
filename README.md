@@ -21,7 +21,7 @@
 ### Social Media 
 <div> 
     <a href="https://www.linkedin.com/in/gabriel-montenegro7/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;
-    <a href="https://instagram.com/gabriel__montenegro/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;                                                                                                                         
+    <a href="https://instagram.com/gabriel__montenegro/"><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"></a>&nbsp;                                                                                                                         
 <h1> </h1>
     
 <p align="center"><b>Visitors</b></p>  
