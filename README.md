@@ -33,8 +33,6 @@
 </a>&nbsp;  
 </li>
 
-</li>
-
 ### Social Media 
 <div> 
     <a href="https://www.linkedin.com/in/gabriel-montenegro7/"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"></a>&nbsp;
