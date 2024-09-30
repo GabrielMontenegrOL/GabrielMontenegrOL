@@ -1,4 +1,4 @@
-### <h1> Welcome to my github page! </h1>
+### <h1> Welcome to my github page!</h1>
 
 <div>
 <img aling="center" height="300em" src="https://i.pinimg.com/originals/bd/24/cc/bd24cc4f035013425217ae3690340955.gif"/>
@@ -6,6 +6,7 @@
 
 <h2> About me: </h2>
 <li> I'm Gabriel, I'm a graduate student in computer science.</li>
+<li> The failure of those who do nothing is greater than the success of those who do nothing!</li>
 
 <h2> Social Media </h2>
 
