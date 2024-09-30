@@ -1,7 +1,7 @@
 ### <h1> Welcome to my github page!</h1>
 
 <div>
-<img aling="center" height="300em" src="https://i.pinimg.com/originals/bd/24/cc/bd24cc4f035013425217ae3690340955.gif"/>
+<img align="center" height="300em" src="https://i.pinimg.com/originals/bd/24/cc/bd24cc4f035013425217ae3690340955.gif"/>
 </div>
 
 <h2> About me: </h2>
