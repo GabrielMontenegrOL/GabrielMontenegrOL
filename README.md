@@ -22,9 +22,9 @@
 
 ### Social Media 
 <div> 
-    <a href="https://www.linkedin.com/in/gabriel-montenegro7/"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"></a>&nbsp;
-    <a href="https://instagram.com/gabriel__montenegro/"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"></a>&nbsp;
-    <a href="mailto:montenegro.dev42@gmail.com"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"></a>&nbsp;  
+    <a href="https://www.linkedin.com/in/gabriel-montenegro7/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"></a>&nbsp;
+    <a href="https://instagram.com/gabriel__montenegro/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"></a>&nbsp;
+    <a href="mailto:montenegro.dev42@gmail.com" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"></a>&nbsp;  
     
 <h1> </h1>
     
