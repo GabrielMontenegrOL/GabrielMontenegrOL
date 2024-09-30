@@ -10,14 +10,15 @@
 
 ### Languages Known & Tools Used: 
 <div> 
-    <a href="https://www.php.net/docs.php"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" /></a>&nbsp;
-    <a href="https://laravel.com/docs"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" /></a>&nbsp;
-    <a href="https://docs.python.org/3/"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" /></a>&nbsp;
-    <a href="https://docs.djangoproject.com/en/stable/"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" /></a>&nbsp;
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></a>&nbsp;
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></a>&nbsp;
+    <a href="https://www.php.net/docs.php" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" /></a>&nbsp;
+    <a href="https://laravel.com/docs" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" /></a>&nbsp;
+    <a href="https://docs.python.org/3/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" /></a>&nbsp;
+    <a href="https://docs.djangoproject.com/en/stable/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></a>&nbsp;
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></a>&nbsp;
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></a>&nbsp;
 </div>
+
 
 ### Social Media 
 <div> 
