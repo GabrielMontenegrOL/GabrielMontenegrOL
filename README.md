@@ -7,7 +7,7 @@
 <h2> About me: </h2>
 <li> I'm Gabriel, I'm a graduate student in computer science.</li>
 
-## Social Media
+<h2> Social Media </h2>
 
 <a href="https://instagram.com/gabriel__montenegro/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"> 
 
