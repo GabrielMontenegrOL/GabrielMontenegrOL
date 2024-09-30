@@ -11,13 +11,9 @@
 <h2> Social Media </h2>
 
 <div>
-    <a href="https://instagram.com/gabriel__montenegro/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png" style="margin-right: 40px;"></a>
+    <a href="https://instagram.com/gabriel__montenegro/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gabriel-montenegro7/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>
 </div>
 
-
 <br><p align="center"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielMontenegrOL}/count.svg" /></p> 
-
-
-
