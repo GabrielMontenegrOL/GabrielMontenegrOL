@@ -1,4 +1,4 @@
-### Welcome to my github page
+### <h1> Welcome to my github page! </h1>
 
 ## About me: 
 I'm Gabriel, I'm a graduate student in computer science.
