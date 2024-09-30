@@ -27,7 +27,7 @@
 </a>&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
 </a>&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="35" 
 </a>&nbsp;  
     
 </div>
