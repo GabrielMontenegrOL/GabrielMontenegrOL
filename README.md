@@ -26,6 +26,6 @@
 </div>
 
 <div>
-<br><p align="center"><b>Visitors</b></p>  
+<p align="center"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielMontenegrOL}/count.svg" /></p> 
 </div>
