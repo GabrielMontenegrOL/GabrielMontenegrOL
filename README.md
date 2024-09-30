@@ -7,7 +7,7 @@
 <h2> About me: </h2>
 <li> I'm Gabriel, I'm a graduate student in computer science.</li>
 <li> The failure of those who do nothing is greater than the success of those who do nothing!</li>
-<li> Test: <img align="center" alt="Elefante-do-mal" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </li>
+<li> Languages Known & Tools Used: <img align="center" alt="Elefante-do-mal" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img align="center" alt="Laravelzada" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> </li>
 
 <h2> Social Media </h2>
 
