@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/gabriel-montenegro7/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
 
-
+<br><p align="center"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielMontenegrOL}/count.svg" /></p> 
 
 
