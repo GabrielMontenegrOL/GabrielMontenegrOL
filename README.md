@@ -7,6 +7,7 @@
 <h2> About me: </h2>
 <li> I'm Gabriel, I'm a graduate student in computer science.</li>
 <li> The failure of those who do nothing is greater than the success of those who do nothing!</li>
+
 <li> Languages Known & Tools Used: 
 <img align="center" alt="Elefante-do-mal" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" /> 
 <img align="center" alt="Laravel" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" /> 
@@ -15,8 +16,6 @@
 <img align="center" alt="JS" height="50" width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
 <img align="center" alt="HTML" height="50" width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
 <img align="center" alt="c" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-
-
 </li>
 
 <h2> Social Media </h2>
