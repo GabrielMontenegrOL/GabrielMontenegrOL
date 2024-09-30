@@ -5,7 +5,7 @@
 </div>
 
 <h2> About me: <h2/>
-I'm Gabriel, I'm a graduate student in computer science.
+<l1> I'm Gabriel, I'm a graduate student in computer science.</l1>
 
 
 
